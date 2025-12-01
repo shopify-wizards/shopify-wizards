@@ -16,10 +16,10 @@
 
 ### 🌟 About Me
 
-- 👩🏽‍💻 I’m a web developer focused on **creative, high-quality, and user-centric** digital experiences.
-- 🧠 Always exploring new tools, frameworks, and design principles.
-- 🎨 Passionate about **UI/UX, animations**, and **clean code architecture**.
-- ☕ Powered by coffee and inspired by originality.
+- 👩🏽‍💻 I’m a Shopify developer specializing in **custom themes, app integrations, and seamless e-commerce experiences**.
+- 🧠 Continuously learning new Shopify features, Liquid, and modern web technologies.
+- 🎨 Dedicated to **UI/UX excellence, interactive storefronts**, and **robust code architecture**.
+- ☕ Fueled by coffee and driven by a passion for innovative online retail.
 
 ---
 
