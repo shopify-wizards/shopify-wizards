@@ -34,19 +34,19 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezgihocaoglu/">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://app.patika.dev/ezgiEH">
     <img src="https://img.shields.io/badge/Patika.dev-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/ezgihocaoglu">
+  <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://coderbyte.com/profile/EzgiEH">
+  <a href="https://coderbyte.com/profile/">
     <img src="https://img.shields.io/badge/Coderbyte-303030?style=for-the-badge&logo=coderbyte&logoColor=white" />
   </a>
-  <a href="https://www.frontendmentor.io/profile/ezgiEH">
+  <a href="https://www.frontendmentor.io/profile/">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-00C6A7?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   </a>
 </p>
