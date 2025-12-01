@@ -40,15 +40,6 @@
   <a href="https://app.patika.dev/ezgiEH">
     <img src="https://img.shields.io/badge/Patika.dev-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://coderbyte.com/profile/">
-    <img src="https://img.shields.io/badge/Coderbyte-303030?style=for-the-badge&logo=coderbyte&logoColor=white" />
-  </a>
-  <a href="https://www.frontendmentor.io/profile/">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-00C6A7?style=for-the-badge&logo=frontendmentor&logoColor=white" />
-  </a>
 </p>
 
 📩 **Got feedback or collaboration ideas?**  
@@ -61,23 +52,6 @@ Feel free to email me at [angrybird.wizard@hotmail.com](mailto:angrybird.wizard@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shopify-wizards&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shopify-wizards&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopify-wizards&layout=compact&theme=radical&hide_border=true" height="140"/>
-</p>
-
----
-
-### 🧩 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shopify-wizards/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shopify-wizards&repo=Audiophile&theme=radical" />
-  </a>
-  <a href="https://github.com/shopify-wizards/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shopify-wizards&repo=ArewGym&theme=radical" />
-  </a>
 </p>
 
 ---
