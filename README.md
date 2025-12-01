@@ -43,7 +43,7 @@
 </p>
 
 📩 **Got feedback or collaboration ideas?**  
-Feel free to email me at [angrybird.wizard@hotmail.com](mailto:angrybird.wizard@hotmail.com)
+Feel free to email me at [shopify.wizard@hotmail.com](mailto:shopify.wizard@hotmail.com)
 
 ---
 
