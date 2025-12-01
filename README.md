@@ -50,7 +50,6 @@ Feel free to email me at [shopify.wizard@hotmail.com](mailto:shopify.wizard@hotm
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shopify-wizards&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shopify-wizards&theme=radical&hide_border=true" height="180"/>
 </p>
 
