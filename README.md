@@ -26,7 +26,7 @@
 ### 🌈 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,git,figma,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,svg,react,nodejs,ruby,php,sentry,git,bitbucket,stackoverflow,figma,github,vercel,docker,vscode&theme=dark" />
 </p>
 
 ---
@@ -59,12 +59,12 @@ Feel free to email me at [ericchen.wizard@hotmail.com](mailto:ericchen.wizard@ho
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezgiEH&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezgiEH&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shopify-wizards&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shopify-wizards&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezgiEH&layout=compact&theme=radical&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopify-wizards&layout=compact&theme=radical&hide_border=true" height="140"/>
 </p>
 
 ---
@@ -73,10 +73,10 @@ Feel free to email me at [ericchen.wizard@hotmail.com](mailto:ericchen.wizard@ho
 
 <p align="center">
   <a href="https://github.com/ezgiEH/Audiophile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=Audiophile&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shopify-wizards&repo=Audiophile&theme=radical" />
   </a>
   <a href="https://github.com/ezgiEH/ArewGym">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezgiEH&repo=ArewGym&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shopify-wizards&repo=ArewGym&theme=radical" />
   </a>
 </p>
 
