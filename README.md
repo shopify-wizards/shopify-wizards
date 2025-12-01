@@ -52,7 +52,7 @@
 </p>
 
 📩 **Got feedback or collaboration ideas?**  
-Feel free to email me at [ericchen.wizard@hotmail.com](mailto:ericchen.wizard@hotmail.com)
+Feel free to email me at [angrybird.wizard@hotmail.com](mailto:angrybird.wizard@hotmail.com)
 
 ---
 
@@ -72,10 +72,10 @@ Feel free to email me at [ericchen.wizard@hotmail.com](mailto:ericchen.wizard@ho
 ### 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ezgiEH/Audiophile">
+  <a href="https://github.com/shopify-wizards/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shopify-wizards&repo=Audiophile&theme=radical" />
   </a>
-  <a href="https://github.com/ezgiEH/ArewGym">
+  <a href="https://github.com/shopify-wizards/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shopify-wizards&repo=ArewGym&theme=radical" />
   </a>
 </p>
