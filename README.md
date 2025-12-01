@@ -1,7 +1,7 @@
 <!-- 💫 Ezgi Hocaoğlu - GitHub README 💫 -->
 
 <h1 align="center">
-  Hi, I'm <a href="https://ezgihocaoglu.com/" target="_blank">Eric Chen</a>
+  Hi, I'm <a href="https://ezgihocaoglu.com/" target="_blank">Shopify Wizard</a>
 </h1>
 
 <h3 align="center">
